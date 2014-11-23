@@ -1,0 +1,2 @@
+[ v1.1 | 12:55 11.09.2014 ]
+[~] Changed rectangle pellet order (Collector - Emitter - Base, to: Emiter - Collector - Base)

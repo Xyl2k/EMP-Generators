@@ -1,0 +1,9 @@
+22 pF capacitor
+220 pF 1k rated capacitor
+2SC2078 transistor
+10k resistor
+Heatsink TO-220
+x3 9V battery
+22 AWG Copper magnet wire 0.7mm (first: 10-30 turns, second: 40-60 turns)
+
+Don't rely on eagle schematic about the 2SC2098V it's in reallity a 2SC2078.
