@@ -1,0 +1,9 @@
+x5 - Nine-volt battery
+x4 - 15k 5% resistors
+x3 - 68 pF capacitors
+x1 - LED
+x1 - 2SC2078 transistor
+x1 - Heatsink TO-220
+
+Big coil: magnet wire 1.35mm, 9 turns
+Small coil: magnet wire 0.70mm, 42 turns
